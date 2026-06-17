@@ -1,0 +1,4 @@
+version,runs,pass_runs,avg_bidiag_ms,min_bidiag_ms,max_bidiag_ms,avg_gkh_ms,avg_total_ms,bidiag_speedup_vs_cpu
+cpu,10,10,1256.731,1214.26,1273.73,2518.715,3775.446,1.0
+hipblas,10,10,274.9533,271.181,277.587,2003.425,2278.3783,4.570707098259959
+hipkernel,10,10,370.6909,362.945,378.091,1883.71,2254.4009,3.3902396848695235

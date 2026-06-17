@@ -1,0 +1,3 @@
+runs=10
+seed=20260408
+out_dir=./NEW_perf_results/bidiag_bench
